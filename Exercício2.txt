@@ -1,0 +1,21 @@
+Sistema de Gestão para Vendas de Cursos Online, alguns requisitos não funcionais:
+
+1. Desempenho
+O sistema deve ser capaz de carregar informações de forma rápida e eficiente, para que o site tenha um bom desempenho.
+•	Tempo de Resposta : O sistema deve responder a consultas de cursos em no máximo 2 segundos.
+•	Capacidade de Processamento : O sistema deve ser capaz de processar até 100 vendas simultâneas sem degradar o desempenho.
+
+2. Segurança
+A segurança dos dados é crucial, especialmente quando se trata de informações dos clientes. Alguns requisitos de segurança incluem:
+•	Proteção de Dados : Informações sensíveis dos clientes, como os dados pessoais e dados bancários, devem ser protegidas para evitar acessos não autorizados.
+•	Autenticação de usuários : Todos os usuários devem cadastrar um login e senha, e fazer leitura facial, para garantir a segurança ao acesso dos seus dados.
+
+3. Usabilidade
+O sistema deve ser fácil de usar, garantindo que os clientes e vendedores possam operá-lo sem dificuldades:
+•	Interface Intuitiva : As telas de cadastro e registro de vendas devem ser simples e diretas, com campos claros e botões fáceis de identificar.
+•	Suporte a Dispositivos : O sistema deve ser acessível tanto em computadores, tablets e smarthphones, permitindo que os funcionários utilizem o dispositivo mais conveniente.
+
+4. Confiabilidade
+A confiabilidade garante que o sistema esteja disponível e funcione conforme esperado:
+•	Tempo de Atividade (Uptime) : O sistema deve estar disponível 24 horas para clientes e vendedores acessarem remotamente de qualquer lugar.
+•	Recuperação de Erros : Em caso de falha, o sistema deve ser capaz de se recuperar rapidamente, garantindo que nenhum dado importante seja perdido.
