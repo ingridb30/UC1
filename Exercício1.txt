@@ -1,0 +1,33 @@
+Sistema de Gestão para Vendas de Cursos Online
+
+O sistema precisa identificar quem vai realizar a venda dos cursos.
+1-	Quem está vendendo os cursos:
+- Dados pessoais do autor (nome, data de nascimento, telefone e e-mail)
+- Dados bancários (CPF ou CNPJ, nº da conta, chave pix)
+
+O sistema precisa identificar quais os cursos serão vendidos.
+
+2-	Sobre o curso:
+- Nome do autor
+- Título e assunto do curso
+- Incluir o curso (escolher formato)
+- Valor do curso
+- Taxa do site para promover o curso
+
+O sistema precisa identificar quais clientes vão acessar e comprar esses cursos.
+
+3-	Cadastro de clientes:
+- Dados pessoais do cliente (nome, data de nascimento, telefone e e-mail)
+- Dados bancários (CPF ou CNPJ, nº do cartão, data de vencimento, CVV)
+- Opções de pagamentos (Pix, boleto e cartões)
+- Opções de parcelamentos
+
+O sistema precisa realizar relatórios detalhados para que seja feita uma gestão completa dos cursos lançados.
+
+4-	Relatórios:
+- Relatórios por nome do curso
+- Relatórios pela data de venda
+- Relatórios financeiros
+- Relatórios pela data de inclusão no sistema
+
+
